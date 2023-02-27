@@ -1,3 +1,13 @@
+** FORKED FYI**
+
+The AHF (Atlantic Hockey Federation) uses the upstream codebase as the basis for how they calculate the league KRACH rankings.  For details, see https://atlantichockeyfederation.com/federation-krach-update/.
+
+This fork is an attempt to modify the script in order to generate the same KRACH ratings.
+
+Original readme follows ...
+
+---
+
 # Bradley-Terry Model Ranking Script
 
 A small script to compute Bradley–Terry model that:
